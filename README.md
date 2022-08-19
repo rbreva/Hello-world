@@ -28,7 +28,7 @@ No prerequisite required
 
 ## Authors
 
-👤 **Author1**
+👤 **R Mauricio Mendoza H**
 
 - GitHub: [GitHub](https://github.com/rbreva)
 - Behance: [Behance](https://www.behance.net/rbreva)
